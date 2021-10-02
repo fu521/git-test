@@ -8,5 +8,6 @@ public class score {
         System.out.println("hot-fix1");
         System.out.println("maste test");
         System.out.println("hot-fox");
+        System.out.println("push test");
     }
 }
